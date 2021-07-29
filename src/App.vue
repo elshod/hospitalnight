@@ -48,7 +48,7 @@ export default {
       doctors: ['Bahodirov Aziz','Yo`ldoshev Farhod','Olimova Aziza'],
       patients: [],
       search:'Barchasi',
-      searchOption: ['Barchasi','Erkak','Ayol'],
+      searchOption: ['Barcha bemor','Erkak','Ayol'],
       fields: [
           { key: 'name', label: 'Ism' },
           { key: 'bdate', label: 'Tugilgan sana'},
